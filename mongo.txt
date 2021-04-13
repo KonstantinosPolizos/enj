@@ -1,0 +1,147 @@
+products
+[
+  {
+    "id": 0,
+    "img":
+      "https://i.pinimg.com/564x/f9/64/e3/f964e3eb02b3772c08c2728b552f56cf.jpg",
+    "name": "Hoodie 1",
+    "price": 12,
+    "type": "hoodie"
+  },
+  {
+    "id": 1,
+    "img":
+      "https://i.pinimg.com/564x/cc/fd/08/ccfd0814c9d833d8b184d6c7e01670b3.jpg",
+    "name": "Hoodie 2",
+    "price": 12,
+    "type": "hoodie"
+  },
+  {
+    "id": 2,
+    "img":
+      "https://i.pinimg.com/564x/3d/81/7d/3d817d7b406aad9d578964cfdec70ac7.jpg",
+    "name": "Hoodie 3",
+    "price": 12,
+    "type": "hoodie"
+  },
+  {
+    "id": 3,
+    "img":
+      "https://i.pinimg.com/564x/08/b8/9c/08b89cf148c304208298a34dd8a1eb6b.jpg",
+    "name": "Tshirt 1",
+    "price": 8,
+    "type": "tshirt"
+  },
+  {
+    "id": 4,
+    "img":
+      "https://i.pinimg.com/564x/4c/58/ea/4c58ea2454e43aa00ae57de669aa21d4.jpg",
+    "name": "Tshirt 2",
+    "price": 8,
+    "type": "tshirt"
+  },
+  {
+    "id": 5,
+    "img":
+      "https://i.pinimg.com/564x/84/07/89/840789dee579ca4d49c7d386cf79bf53.jpg",
+    "name": "Tshirt 3",
+    "price": 8,
+    "type": "tshirt"
+  },
+  {
+    "id": 6,
+    "img":
+      "https://i.pinimg.com/564x/83/36/d6/8336d6d2154a8f2378514a7cb0c0d04d.jpg",
+    "name": "Jacket 1",
+    "price": 25,
+    "type": "jacket"
+  },
+  {
+    "id": 7,
+    "img":
+      "https://i.pinimg.com/564x/8d/7f/c5/8d7fc524038488fd764a2d3ab2afa0b6.jpg",
+    "name": "Jacket 2",
+    "price": 25,
+    "type": "jacket"
+  },
+  {
+    "id": 8,
+    "img":
+      "https://i.pinimg.com/564x/9f/db/7a/9fdb7a5e24adca84cc0e2af307763d50.jpg",
+    "name": "Jacket 3",
+    "price": 25,
+    "type": "jacket"
+  },
+  {
+    "id": 9,
+    "img":
+      "https://i.pinimg.com/564x/f5/12/2a/f5122a488ad99e0f576e34079f442551.jpg",
+    "name": "Pants 1",
+    "price": 10,
+    "type": "pants"
+  },
+  {
+    "id": 10,
+    "img":
+      "https://i.pinimg.com/564x/b8/b6/29/b8b62995b8a3ba770b1f81573f0737ea.jpg",
+    "name": "Pants 2",
+    "price": 10,
+    "type": "pants"
+  },
+  {
+    "id": 11,
+    "img":
+      "https://i.pinimg.com/564x/f2/63/46/f2634681c3768428668732244e591cf6.jpg",
+    "name": "Pants 3",
+    "price": 10,
+    "type": "pants"
+  },
+  {
+    "id": 0,
+    "img":
+      "https://i.pinimg.com/564x/7a/0a/6b/7a0a6b0c509cea72e5084a4599acd281.jpg",
+    "name": "Bucket 1",
+    "price": 3,
+    "type": "bucket"
+  },
+  {
+    "id": 1,
+    "img":
+      "https://i.pinimg.com/564x/79/52/ea/7952eaf640c1a499836280066b584a84.jpg",
+    "name": "Bucket 2",
+    "price": 3,
+    "type": "bucket"
+  },
+  {
+    "id": 2,
+    "img":
+      "https://i.pinimg.com/564x/fe/bb/70/febb709a98a5330148979a0ad796e9c0.jpg",
+    "name": "Bucket 3",
+    "price": 3,
+    "type": "bucket"
+  },
+  {
+    "id": 3,
+    "img":
+      "https://i.pinimg.com/564x/70/08/d0/7008d01e10b6fa6d996e749e47ca9b7b.jpg",
+    "name": "Necklace 1",
+    "price": 4,
+    "type": "necklace"
+  },
+  {
+    "id": 4,
+    "img":
+      "https://i.pinimg.com/564x/35/6d/65/356d65ff1d951ef915ccbd6c3040fe65.jpg",
+    "name": "Necklace 2",
+    "price": 4,
+    "type": "necklace"
+  },
+  {
+    "id": 5,
+    "img":
+      "https://i.pinimg.com/564x/a4/97/44/a497442c41ee94462e2d5b23166bac69.jpg",
+    "name": "Necklace 3",
+    "price": 4,
+    "type": "necklace"
+  }
+]
